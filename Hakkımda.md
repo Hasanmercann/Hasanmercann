@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Hasanmercann
+- 👀 I’m interested in artificial intelligence
+- 🌱 I’m currently learning python, C#, JavaScript 
+- 💞️ I’m looking to collaborate on machine learning
+- 📫 How to reach me. 190542003@firat.edu.tr
